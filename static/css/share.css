@@ -5,7 +5,7 @@
     height: 70px;
 }
 .nav .nav-content{
-	width: 900px;
+	width: 1000px;
 	height: 100%;
     overflow: hidden;
     box-sizing: border-box;
@@ -41,3 +41,95 @@
 .footer{
 	width: 100%;
 }
+.footer .footer-content{
+	width: 1000px;
+	/*height: 400px;*/
+	margin:0 auto;
+}
+.footer .footer-content .footer-top{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0 250px;
+    padding-top: 60px;
+}
+.footer .footer-content .footer-top .webchat{
+	float: left;
+	width: 150px;
+	overflow: hidden;
+	cursor: pointer;
+}
+.footer .footer-content .footer-top .webchat .left{
+	width: 45px;
+	float: left;
+}
+.footer .footer-content .footer-top .webchat .left img{
+	width: 100%;
+}
+
+.footer .footer-content .footer-top .webchat .right{
+    width: 100px;
+    float: left;
+    line-height: 20px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    color: #000000;
+}
+.footer .footer-content .footer-top .discount{
+	float: right;
+	width: 180px;
+	overflow: hidden;
+	cursor: pointer;
+}
+.footer .footer-content .footer-top .discount .left{
+	width: 45px;
+	float: left;
+}
+.footer .footer-content .footer-top .discount .left img{
+	width: 100%;
+}
+
+.footer .footer-content .footer-top .discount .right{
+    width: 130px;
+    float: left;
+    line-height: 20px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    color: #000000;
+}
+
+.footer .footer-content .footer-bottom{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.footer .footer-content .footer-bottom ul{
+    width: 17%;
+    height: 100%;
+	float: left;
+}
+
+.footer .footer-content .footer-bottom ul.list1{
+    width: 32%;
+    height: 100%;
+}
+
+.footer .footer-content .footer-bottom ul li{
+	width: 100%;
+    line-height: 30px;
+}
+.footer .footer-content .footer-bottom ul li a{
+    width: 100%;
+    color: #000000;
+}
+
+.footer .footer-content .footer-bottom ul li.title a{
+    width: 100%;
+    font-weight: 550;
+}
+
