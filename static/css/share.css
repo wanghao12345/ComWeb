@@ -1,0 +1,43 @@
+/*菜单*/
+
+.nav{
+    width: 100%;
+    height: 70px;
+}
+.nav .nav-content{
+	width: 900px;
+	height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    line-height: 70px;
+    margin:0 auto;
+}
+.nav .nav-content .logo{
+	float: left;
+    width: 45px;
+    margin-top: 12px;
+}
+.nav .nav-content .logo img{
+	width: 100%;
+	height: 100%;
+}
+
+.nav .nav-content .menu{
+	float: right;
+}
+.nav .nav-content .menu ul{
+	
+}
+.nav .nav-content .menu ul li{
+    display: inline;
+    margin: 0 10px;
+}
+.nav .nav-content .menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+/*底部*/
+.footer{
+	width: 100%;
+}
