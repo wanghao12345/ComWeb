@@ -37,6 +37,22 @@
 	color: white;
 }
 
+/*banner标题*/
+.middleTitle{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.middleTitle p{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
+
 /*底部*/
 .footer{
 	width: 100%;

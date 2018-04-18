@@ -1,0 +1,73 @@
+.container{
+    width: 100%;
+    min-width: 1200px;
+    background-color: white;
+}
+.container .banner{
+	width: 100%;
+    height: 300px;
+    background: url(../../img/about/banner.png);
+    background-size: 100.15% 100%;
+}
+.container .content{
+    width: 1000px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-left: 50px;
+}
+
+.container .content h1{
+    width: 100%;
+    font-size: 25px;
+    height: 70px;
+    line-height: 120px;
+    color: #e13608;
+}
+.container .content p.point{
+    height: 50px;
+    line-height: 50px;
+    font-weight: 600;
+    color: #999999;
+}
+
+.container .content .item{
+	width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.container .content .item .left{
+    width: 30%;
+    float: left;
+}
+.container .content .item .left p{
+    width: 100%;
+    color: #000000;
+    font-weight: 550;
+    line-height: 40px;
+}
+.container .content .item .left span{
+    width: 100%;
+    color: #999999;
+    line-height: 10px;
+}
+
+
+.container .content .item .right{
+    width: 70%;
+    float: left;
+}
+.container .content .item .right ul{
+    width: 100%;
+    overflow: hidden;
+}
+.container .content .item .right ul li{
+    width: 25%;
+    float: left;
+    line-height: 40px;
+}
+.container .content .item .right ul li a{
+	color: #000000;
+}
+
+

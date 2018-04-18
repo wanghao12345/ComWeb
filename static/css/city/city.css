@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    min-width: 1200px;
+    background-color: white;
+}
+.container .banner{
+	width: 100%;
+    height: 300px;
+    background: url(../../img/city/banner.png);
+    background-size: 100.15% 100%;
+}
+.container .content{
+	width: 100%;
+}
+.container .content ul{
+	width: 100%;
+    border-top: 2px solid white;
+}
+.container .content ul li{
+	width: 100%;
+}
+.container .content ul li a{
+	width: 100%;
+}
+.container .content ul li a img{
+	width: 100%;
+	height: 100%;
+}
+
+
